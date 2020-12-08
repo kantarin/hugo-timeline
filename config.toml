@@ -101,33 +101,33 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "#"
-
-  [[params.social]]
-    name = "instagram"
-    url  = "#"
-
-  [[params.social]]
-    name = "facebook"
-    url  = "#"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "#"
-
-  [[params.social]]
-    name = "github"
-    url  = "#"
-
-  [[params.social]]
-    name = "reddit"
-    url  = "#"
-
-  [[params.social]]
-    name = "keybase"
-    url  = "#"
+#  [[params.social]]
+#    name = "twitter"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "instagram"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "facebook"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "github"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "reddit"
+#    url  = "#"
+#
+#  [[params.social]]
+#    name = "keybase"
+#    url  = "#"
 
 [languages]
   [languages.en]
