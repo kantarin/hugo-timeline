@@ -1,7 +1,12 @@
 ---
-title: "First Post"
-date: 2020-12-09T12:10:30+07:00
-draft: true
+author:
+  name: "shorttime"
+date: 2020-12-09
+type:
+- post
+- posts
+title: first post
+weight: 10
 ---
 
 # 1
